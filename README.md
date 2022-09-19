@@ -9,4 +9,4 @@ There are 3 enzymes: helicase, DNA polymerase, and ligase that work along with P
 These 3D printed pieces were already used in his laboratory course. 
 The feedback from his students was very positive on how the 3D printed enzymes helped them to better understand the material.
 
-The current versions of each enzyme being used are: Helicase 0.4.stl; Polymerase 1.2.3mf; and Ligase 0.1.stl.
+The current versions of each enzyme being used are: Helicase 0.4.stl; Polymerase 1.3.3mf; and Ligase 0.1.stl.
