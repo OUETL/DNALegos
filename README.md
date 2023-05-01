@@ -1,6 +1,6 @@
-# DNALegos
+# DNA Replication Teaching Tools
 
-The DNA LEGOs project with Dr. Tarren Shaw from the Biology Department is a course integration with his BIOL1124 lecture.
+The DNA Replication Teaching Tools project with Dr. Tarren Shaw from the Biology Department is a course integration with his BIOL1124 lecture.
 
 DNA Replication is a basic biological process that has a lot of moving parts.
 Dr. Shaw wanted his students to be able to have a tactile example of a process that is difficult to imagine. 
